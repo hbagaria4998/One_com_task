@@ -1,0 +1,8 @@
+Problem assignment - You are the owner of a restaurant, and want your customers to be able to order food in advance from their homes, so it'll be ready when they arrive at your restaurant. Write a Django application that supports this.
+Think about and develop models for a Product and Order; you do not have to model the customers
+Ensure authentication works for the shop owner, but authentication does not need to work for customers
+The shop owner must be able to add products through the Django Admin
+Your application should offer a simple frontend, where customers can view products and create and order using a Django form
+
+
+
